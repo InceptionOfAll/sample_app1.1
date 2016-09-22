@@ -25,4 +25,4 @@ $ rails server
 ```
 
 For more information, see the
-vk.com/id33435769
+[My VK profile](vk.com/id33435769)
